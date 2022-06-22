@@ -59,6 +59,8 @@ if(input==2){
 		printf("\n%d---\n", arr3[i] );
 
 	    }
+	printf("Max element: %d\n", arr3[0]);
+	printf("Min element: %d\n", arr3[5]);
 
 }
 
